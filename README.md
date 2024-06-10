@@ -17,4 +17,4 @@ This is a simple restaurant website created using HTML and CSS.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
